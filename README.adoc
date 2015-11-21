@@ -1,0 +1,12 @@
+command line run:
+
+from JSON output:
+
+----
+$ java -jar post_271377-1.1.jar _file_
+----
+
+from JAVA output:
+----
+$ java -jar post_271377-1.1.jar _file_ "java"
+----
