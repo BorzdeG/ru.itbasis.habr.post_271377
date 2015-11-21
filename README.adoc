@@ -1,4 +1,4 @@
-command line run:
+command line run (require JRE 8):
 
 from JSON output:
 
